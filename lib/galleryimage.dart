@@ -44,7 +44,7 @@ class GalleryImage extends StatefulWidget {
     this.padding = EdgeInsets.zero,
     this.loadingWidget,
     this.errorWidget,
-    this.galleryBackgroundColor = Colors.black,
+    this.galleryBackgroundColor = Colors.white,
     this.minScale = .5,
     this.maxScale = 10,
     this.imageRadius = 8,
